@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lkrms/curler": "^0.1.0"
+    }
+}

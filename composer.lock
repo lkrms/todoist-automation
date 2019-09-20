@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2d89dc0dc6dac7acc3586d2e4706d68b",
+    "packages": [
+        {
+            "name": "lkrms/curler",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lkrms/curler-php.git",
+                "reference": "7d2c05288e284d88963cfc477b36ae63f5787b57"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lkrms/curler-php/zipball/7d2c05288e284d88963cfc477b36ae63f5787b57",
+                "reference": "7d2c05288e284d88963cfc477b36ae63f5787b57",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Curler\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP library for easy consumption of REST APIs",
+            "time": "2019-06-26T02:47:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
